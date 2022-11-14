@@ -11,5 +11,8 @@ public class SomonClass {
 	int as = 43;
 	System.out.println(as);
 	}
+	public static void fawad() {
+		
+	}
 
 }
