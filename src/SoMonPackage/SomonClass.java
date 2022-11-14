@@ -8,6 +8,7 @@ public class SomonClass {
 		
 		int a =56;
 	System.out.println(a);
+		int c = 777;
 	}
 
 }
