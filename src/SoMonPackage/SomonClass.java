@@ -8,6 +8,8 @@ public class SomonClass {
 		
 		int a =56;
 	System.out.println(a);
+	int as = 43;
+	System.out.println(as);
 	}
 
 }
